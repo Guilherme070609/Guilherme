@@ -4,7 +4,7 @@
 
 # 1. Adicione o número 50 ao final da lista.
 lista_numeros = [10,20,30,40]
-lista_numeros.append[50]
+lista_numeros.append (50)
 print(lista_numeros)
 
 # 2. Adicione "laranja" ao índice 1 da lista.
