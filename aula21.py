@@ -27,7 +27,7 @@ print(lista_cores.index("azul"))
 
 # 6. conte quantas vezes o numero 2 aparece na lista.
 lista_numeros_repetidos = [1, 2, 3, 2, 4, 2, 5, 2]
-print(lista_numeros.count(2))
+print(lista_numeros_repetidos.count(2))
 
 # 7. ordene a lista em ordem crecente.
 lista_desordenada = [50, 20, 80, 10, 40]
